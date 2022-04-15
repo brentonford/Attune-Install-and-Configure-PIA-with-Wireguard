@@ -1,0 +1,5 @@
+{
+    "key": "wireguardlinuxconfigurationfilesmanualconnections200", 
+    "name": "Wireguard Linux Configuration Files - manual-connections-2.0.0", 
+    "type": "com.servertribe.attune.tuples.FileArchiveVersionedTuple"
+}

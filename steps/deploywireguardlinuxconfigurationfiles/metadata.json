@@ -1,0 +1,11 @@
+{
+    "archiveKey": "wireguardlinuxconfigurationfilesmanualconnections200", 
+    "deployPath": "/tmp/", 
+    "enabled": true, 
+    "key": "deploywireguardlinuxconfigurationfiles", 
+    "name": "Deploy Wireguard Linux Configuration Files", 
+    "osCredKey": "linuxuser", 
+    "serverKey": "linuxnode", 
+    "type": "com.servertribe.attune.tuples.StepPushDesignFileTuple", 
+    "unpack": true
+}

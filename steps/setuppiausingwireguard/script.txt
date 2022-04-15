@@ -1,0 +1,3 @@
+cd /tmp/manual-connections-2.0.0/
+
+./run_setup.sh | grep -v PIA_TOKEN

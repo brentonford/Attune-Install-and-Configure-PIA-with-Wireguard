@@ -1,0 +1,3 @@
+wg-quick up pia
+
+traceroute www.duckduckgo.com

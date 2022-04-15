@@ -1,0 +1,1 @@
+https://github.com/pia-foss/manual-connections/releases/tag/v2.0.0
