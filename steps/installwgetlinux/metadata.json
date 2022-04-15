@@ -1,8 +1,8 @@
 {
     "enabled": true, 
     "interpreter": 1, 
-    "key": "installwireguardlinux", 
-    "name": "Install Wireguard - Linux", 
+    "key": "installwgetlinux", 
+    "name": "Install wget - Linux", 
     "osCredKey": "linuxuser", 
     "serverKey": "pianode", 
     "successExitCode": 0, 

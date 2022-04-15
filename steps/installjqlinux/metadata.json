@@ -4,7 +4,7 @@
     "key": "installjqlinux", 
     "name": "Install jq - Linux", 
     "osCredKey": "linuxuser", 
-    "serverKey": "linuxnode", 
+    "serverKey": "pianode", 
     "successExitCode": 0, 
     "type": "com.servertribe.attune.tuples.StepSshTuple"
 }

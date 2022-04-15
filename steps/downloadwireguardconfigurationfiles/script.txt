@@ -1,0 +1,12 @@
+# Script Variables
+$downloadLink = "https://github.com/pia-foss/manual-connections/archive/refs/tags/v2.0.0.zip"
+$dir = "/tmp/"
+$fileName = "manual-connections-2.0.0.zip"
+
+# Download file.
+wget -P $dir $downloadLink
+
+# Extract zip file.
+cd $dir
+pwd
+unzip -o $dir$fileName

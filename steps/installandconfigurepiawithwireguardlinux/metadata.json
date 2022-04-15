@@ -2,7 +2,7 @@
     "concurrency": 1, 
     "enabled": true, 
     "isBlueprint": true, 
-    "key": "installandconfigurepiawithwireguard", 
+    "key": "installandconfigurepiawithwireguardlinux", 
     "links": [
         {
             "order": 0, 
@@ -13,22 +13,30 @@
             "stepKey": "installcurllinux"
         }, 
         {
+            "order": 30, 
+            "stepKey": "installwgetlinux"
+        }, 
+        {
             "order": 40, 
             "stepKey": "installwireguardlinux"
         }, 
         {
-            "order": 60, 
-            "stepKey": "deploywireguardlinuxconfigurationfiles"
+            "order": 50, 
+            "stepKey": "downloadwireguardconfigurationfiles"
         }, 
         {
             "order": 80, 
             "stepKey": "setuppiausingwireguard"
         }, 
         {
+            "order": 90, 
+            "stepKey": "cleanupwireguarddownloadedconfigurationfiles"
+        }, 
+        {
             "order": 100, 
             "stepKey": "testpiaconnection"
         }
     ], 
-    "name": "Install and Configure PIA with Wireguard", 
+    "name": "Install and Configure PIA with Wireguard - Linux", 
     "type": "com.servertribe.attune.tuples.StepGroupTuple"
 }

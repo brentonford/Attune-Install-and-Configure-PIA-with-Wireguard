@@ -1,8 +1,8 @@
 {
     "enabled": true, 
     "interpreter": 1, 
-    "key": "installwireguardlinux", 
-    "name": "Install Wireguard - Linux", 
+    "key": "cleanupwireguarddownloadedconfigurationfiles", 
+    "name": "Cleanup WireGuard Downloaded Configuration Files", 
     "osCredKey": "linuxuser", 
     "serverKey": "pianode", 
     "successExitCode": 0, 

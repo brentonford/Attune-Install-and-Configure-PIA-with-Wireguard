@@ -1,0 +1,6 @@
+# Script Variables
+$dir = "/tmp/"
+$fileName = "manual-connections-2.0.0"
+
+# Remove files.
+rm -rfv $dir$fileName*

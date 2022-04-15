@@ -5,7 +5,7 @@
     "name": "Setup PIA using Wireguard", 
     "osCredKey": "linuxuser", 
     "promptResponses": "PIA username (p#######): === {piaUser.user}\nPIA password: ==={piaUser.password}\nDo you want a forwarding port assigned ([N]o/[y]es): ===N\nDo you want to disable IPv6? (Y/n): ===Y\nserver with the lowest latency ([N]o/[y]es): ===N\nConnection method ([W]ireguard/[o]penvpn): ===W\nDo you want to force PIA DNS ([Y]es/[n]o): ===Y", 
-    "serverKey": "linuxnode", 
+    "serverKey": "pianode", 
     "successExitCode": 0, 
     "type": "com.servertribe.attune.tuples.StepSshPromptedTuple"
 }

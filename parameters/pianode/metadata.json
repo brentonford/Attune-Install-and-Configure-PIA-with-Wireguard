@@ -1,6 +1,6 @@
 {
-    "key": "linuxnode", 
-    "name": "Linux Node", 
+    "key": "pianode", 
+    "name": "PIA Node", 
     "showInPlan": true, 
     "type": "c.s.s.b.phv.LinuxServer"
 }

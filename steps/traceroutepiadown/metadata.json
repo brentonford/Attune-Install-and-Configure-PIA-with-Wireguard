@@ -4,7 +4,7 @@
     "key": "traceroutepiadown", 
     "name": "Trace Route PIA Down", 
     "osCredKey": "linuxuser", 
-    "serverKey": "linuxnode", 
+    "serverKey": "pianode", 
     "successExitCode": 0, 
     "type": "com.servertribe.attune.tuples.StepSshTuple"
 }

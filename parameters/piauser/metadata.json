@@ -2,5 +2,5 @@
     "key": "piauser", 
     "name": "PIA User", 
     "showInPlan": true, 
-    "type": "c.s.s.b.phv.LinOsCred"
+    "type": "c.s.s.b.phv.OsCred"
 }
